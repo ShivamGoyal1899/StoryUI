@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:story_app_ui/CustomIcons.dart';
+import 'package:StoryUI/CustomIcons.dart';
 import 'data.dart';
 import 'dart:math';
 
@@ -186,7 +186,7 @@ class _MyAppState extends State<MyApp> {
                     width: 15.0,
                   ),
                   Text(
-                    "25+ Stories",
+                    "9+ Stories",
                     style: TextStyle(
                       color: Colors.blueAccent,
                     ),
