@@ -200,7 +200,7 @@ class _MyAppState extends State<MyApp> {
             Row(
               children: <Widget>[
                 Padding(
-                  padding: EdgeInsets.only(left: 18.0),
+                  padding: EdgeInsets.only(left: 18.0, bottom: 20.0),
                   child: ClipRRect(
                     borderRadius: BorderRadius.circular(20.0),
                     child: Image.asset(
