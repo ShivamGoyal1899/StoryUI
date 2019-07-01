@@ -1,4 +1,4 @@
-package co.shivamgoyal.story_app_ui;
+package co.shivamgoyal.storyui;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
